@@ -11,3 +11,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 806420 | [Julio Salceda](https://github.com/phsxes) |[test](https://github.com/phsxes/lab6-microservices/tree/test) | |
 | 721615 | [Eduardo Gimeno](https://github.com/EduardoGimeno) |[test](https://github.com/EduardoGimeno/lab6-microservices/tree/test) | |
 | 721854 | [Guillermo Pérez](https://github.com/Guillerm097) |[test](https://github.com/Guillerm097/lab6-microservices/tree/test) | |
+| 679301 | [Fernando Bercedo](https://github.com/ferbercedo) |[test](https://github.com/ferbercedo/lab6-microservices/tree/test) | |
