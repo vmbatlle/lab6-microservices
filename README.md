@@ -14,3 +14,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 737215 | [Ruben Rodriguez](https://github.com/ZgzInfinity) |[test](https://github.com/ZgzInfinity/lab6-microservices/tree/Test) | 
 | 737910 | [Javier Martínez](https://github.com/javiermixture17) |[test](https://github.com/javiermixture17/lab6-microservices/tree/test) | |
 | 741294 | [Víctor Peñasco](https://github.com/vpec) |[test](https://github.com/vpec/lab6-microservices/tree/test) | |
+| 698521 | [Sergio Herrero](https://github.com/sherrero96) |[test](https://github.com/sherrero96/lab6-microservices/tree/test) | |
