@@ -19,4 +19,4 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-mic
 | 679301 | [Fernando Bercedo](https://github.com/ferbercedo) |[test](https://github.com/ferbercedo/lab6-microservices/tree/test) | |
 | 721525 | [Daniel Fraile](https://github.com/DanFzgz) |[test](https://github.com/DanFzgz/lab6-microservices/tree/test) | |
 | 698570 | [Miguel Escribano](https://github.com/a698570) |[test](https://github.com/a698570/lab6-microservices/tree/test) | |
-| 736478 | [Víctor Martínez Batlle](https://github.com/vmbatlle) |[test](https://github.com/vmbatlle/lab6-microservices/tree/test) | |
+| 736478 | [Víctor Martínez Batlle](https://github.com/vmbatlle) |[test](https://github.com/vmbatlle/lab6-microservices/tree/test) | [bonus](https://github.com/vmbatlle/lab6-microservices/tree/bonus) | :gift:
