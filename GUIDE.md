@@ -7,6 +7,10 @@ Written by Vícto M. Batllte <<736478@unizar.es>>
 So as to launch the Eureka server, execute the following commands:
 
 ```bash
+gradle registration:bootRun
+```
+o
+```bash
 cd /path/to/git/repository
 cd registration
 gradle bootRun
@@ -24,6 +28,10 @@ If now you access `http://localhost:1111/` ([link](http://localhost:1111/)), you
 
 Now, we will launch ther first microservice and register it into Eureka.
 
+```bash
+gradle accounts:bootRun
+```
+o
 ```bash
 cd ../accounts
 gradle bootRun
@@ -53,6 +61,10 @@ And a request to `http://localhost:2222/actuator/info` ([link](http://localhost:
 
 Finally, it's time to launch the MVC front-end application, by running:
 
+```bash
+gradle web:bootRun
+```
+o
 ```bash
 cd ../web
 gradle bootRun
