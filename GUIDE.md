@@ -18,7 +18,7 @@ As a result, you will obtain the following logs:
 
 If now you access `http://localhost:1111/` ([link](http://localhost:1111/)), you should be able to see:
 
-![Service Registration dashboard](assets/01_registration_dashboard.JPG)
+![Service Registration dashboard](assets/02_registration_dashboard.JPG)
 
 ## Microservice account service (`accounts`)
 
@@ -37,7 +37,7 @@ Accessing to `http://localhost:1111/` ([link](http://localhost:1111/)), you shou
 
 ![Account service dashboard](assets/04_accounts_dashboard.JPG)
 
-And a request to `http://localhost:2222/` ([link](http://localhost:2222/)) will return the following data:
+And a request to `http://localhost:2222/actuator/info` ([link](http://localhost:2222/actuator/info)) will return the following data:
 
 ```json
 { 
@@ -66,9 +66,7 @@ The dashboard at `http://localhost:1111/` ([link](http://localhost:1111/)) shoul
 
 ![Web service dashboard](assets/06_web_dashboard.JPG)
 
-And a request to `http://localhost:3333/` ([link](http://localhost:3333/)) will show a list of demo options.
-
-In the next screenshot it's displayed the results of clicking 3rd and 4th options:
+And a request to `http://localhost:3333/` ([link](http://localhost:3333/)) will show a list of demo options. In the next screenshot it's displayed the results of clicking 3rd and 4th options:
 
 ![Web service dashboards](assets/07_web_dashboard.JPG)
 
@@ -78,9 +76,7 @@ When needed, a second account service may be lauched as in the previous chapter,
 
 ![Account service dashboard](assets/08_second_dashboard.JPG)
 
-And a request to `http://localhost:2222/` ([link](http://localhost:2222/)) will return the following data:
-
-## Kill the microservice with port 2222
+## Kill the microservice with port 2222 (`accounts`)
 
 If now we kill the microservice running at port `2222`, [the aplication](http://localhost:3333/accounts/123456789) continues working.
 
